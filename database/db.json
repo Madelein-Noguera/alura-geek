@@ -1,0 +1,58 @@
+{
+  "products": [
+    {
+      "name": "Eternal Sailor Moon",
+      "price": "30",
+      "image": "https://m.media-amazon.com/images/I/61pBbhUgZqL._AC_SL1500_.jpg",
+      "id": "1"
+    },
+    {
+      "name": "Eternal Sailor Mercury",
+      "price": "24",
+      "image": "https://m.media-amazon.com/images/I/61Fhgeuh0ML._AC_SL1500_.jpg",
+      "id": "2"
+    },
+    {
+      "name": "BaEternal Sailor Júpitert",
+      "price": "24",
+      "image": "https://m.media-amazon.com/images/I/61iZMgFVf8L._AC_SL1500_.jpg",
+      "id": "3"
+    },
+    {
+      "name": "Eternal Sailor Venus",
+      "price": "27",
+      "image": "https://m.media-amazon.com/images/I/61A6CDO8shL._AC_SL1500_.jpg",
+      "id": "4"
+    },
+    {
+      "name": "Eternal Sailor Neptuno",
+      "price": "27",
+      "image": "https://m.media-amazon.com/images/I/61C+Bq0NbKL._AC_SL1500_.jpg",
+      "id": "5"
+    },
+    {
+      "name": "Eternal Sailor Plutón",
+      "price": "27",
+      "image": "https://m.media-amazon.com/images/I/61Eg7CPp8TL._AC_SL1500_.jpg",
+      "id": 6
+    },
+    {
+      "name": "Tuxedo Mask",
+      "price": "27",
+      "image": "https://m.media-amazon.com/images/I/71xYxwflPnL._AC_SL1500_.jpg",
+      "id": 7
+    },
+    {
+      "name": "Artemis & Diana",
+      "price": "40",
+      "image": "https://m.media-amazon.com/images/I/61nY1oMEovL._AC_SL1500_.jpg",
+      "id": 8
+    },
+    {
+      "name": "Pretty Guardian Sailor Moon",
+      "price": "30",
+      "image": "https://m.media-amazon.com/images/I/61bovBSRpKL._AC_SL1500_.jpg",
+      "id": 9
+    }
+  ]
+}
